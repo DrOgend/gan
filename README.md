@@ -19,4 +19,5 @@ graphite {
   }
 and in Gatling script you should use next class simulation name:
 class ufr_Mobileregistration_Basescenario extends Simulation {
+...
  
